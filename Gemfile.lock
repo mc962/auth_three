@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    auth_three (0.1.0)
+    auth_three (0.1.1)
       rails (~> 5.1.0)
 
 GEM
